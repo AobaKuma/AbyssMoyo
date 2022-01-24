@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ModMetaData>
+	<name>Moyo-Light in the Abyss</name>
+	<author>AOBA</author>
+	<supportedVersions>
+		<li>1.3</li>
+	</supportedVersions>
+	<packageId>AOBA.RedMoyo</packageId>
+	<description>
+	
+	自深淵之底，居住著茉約的亞種，因散發著不同於一般茉約的紅色微光因此也被稱為紅茉約。
+	關於她們的起源並不明確，但由於其原先的居住環境位於充滿危險水壓與巨大怪物的海底深淵因此她們也被深海的茉約同類稱為深淵茉約.
+	
+	自深海因茉約內部紛爭導致的動盪時期中有人目擊了相當數量的深淵茉約克服了減壓病來到陸地上並以登陸的船隻為中心建立了殖民地。	
+	由於過去沒有人知道太多關於她們的訊息，他們大舉登陸的原因也不明，因此在接觸她們時注意自身安全。
+	
+	=概述=
+	首先感謝Némonian授權我製作茉約族的二次創作模組，向各位介紹茉約在極限深海之底的近親們。
+	
+	=紅茉約=
+	茉約族的亞種，相對於茉約他們在深淵的環境使得他們的科技更重視可靠性與實用性，但由於來到陸地的時間不長因此他們還不是很適應光照.
+	有著更高的心靈敏感度，大概是因為在無光的深淵他們唯一可以依靠的只有自己的觸角.
+	相對茉約族來說更加的強壯並且有著更高的自然恢復力，但是對於深藍物質的應用尚不發達。
+	並不擅於社交，但相對的有高於茉約的工作速度
+	高溫適應性較高，但低溫適應性非常差.
+	
+	=其他內容=
+	-新陣營:深淵來訪者(Abyss visitor) 默認中立 ，基地都在海岸線上，用原版拓展框架生成自定義建築
+	-7種工業時代武器與4種太空時代武器
+	-4個基於原版茉約科技樹的新科技
+	-10件茉約衣服(適用於原版茉約)
+	-22個新的背景故事
+	
+	-
+	</description>
+	<modDependencies>
+		<li>
+			<packageId>Nemonian.MY</packageId>
+			<displayName>Moyo-From the depth</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2182305386</steamWorkshopUrl>
+		</li>		
+	</modDependencies>
+	<loadAfter>
+		<li>goudaquiche.MoharFramework</li>
+		<li>Nemonian.MY</li>
+	</loadAfter>
+</ModMetaData>
